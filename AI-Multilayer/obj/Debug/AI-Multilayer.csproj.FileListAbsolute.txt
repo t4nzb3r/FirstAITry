@@ -1,0 +1,6 @@
+d:\users\admin\documents\visual studio 2017\Projects\AI-Multilayer\AI-Multilayer\obj\Debug\AI-Multilayer.csprojResolveAssemblyReference.cache
+d:\users\admin\documents\visual studio 2017\Projects\AI-Multilayer\AI-Multilayer\bin\Debug\AI-Multilayer.exe.config
+d:\users\admin\documents\visual studio 2017\Projects\AI-Multilayer\AI-Multilayer\bin\Debug\AI-Multilayer.exe
+d:\users\admin\documents\visual studio 2017\Projects\AI-Multilayer\AI-Multilayer\bin\Debug\AI-Multilayer.pdb
+d:\users\admin\documents\visual studio 2017\Projects\AI-Multilayer\AI-Multilayer\obj\Debug\AI-Multilayer.exe
+d:\users\admin\documents\visual studio 2017\Projects\AI-Multilayer\AI-Multilayer\obj\Debug\AI-Multilayer.pdb
